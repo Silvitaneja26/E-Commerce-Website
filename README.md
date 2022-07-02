@@ -1,0 +1,2 @@
+# E-Commerce-Website
+ E-commerce websites have become a part of our daily lives. Technological progress allowed people to sit comfortably at home and still shop online even if you don't go to the actual store. Shopping Mart is an interactive e-commerce solution providing users with an opportunity to buy all varieties of clothing at a very reasonable price. The project comprises of four modules namely admin, authentication, purchase and payments. The project is fully functional with working frontend, backend and database.
